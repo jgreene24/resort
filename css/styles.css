@@ -1,0 +1,17 @@
+h1 {
+  color: greenyellow;
+  text-align: center;
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+ul {
+  font-style: italic;
+}
+
+body {
+  background-color: khaki;
+}
